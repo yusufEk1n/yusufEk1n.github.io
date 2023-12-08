@@ -1,12 +1,11 @@
 # Site settings
-title: Klise Theme # site title
+title: Home # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  Merhaba benim adım yusuf. Öğrenmeyi, paylaşmayı ve güncel kalmayı seven bir yazılım mühendisliği öğrencisiyim. <a href="https://github.com/yusufEk1n" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: Europe/Istanbul # default timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/yusufEk1n/yusufEk1n.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
@@ -18,6 +17,8 @@ author:
   github: yusufEk1n # github username
   linkedin: yusuf-ekinn
   email: ekinn.yusuf56@gmail.com # email adress
+  facebook: yusuf.ekin.3
+  twitter: _yusufben
   avatar: /assets/img/agentSmith.png # change with your own avatar
 
 # URL settings
