@@ -1,13 +1,22 @@
 // Navbar
 .navbar {
   height: auto;
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+
+.container {
   max-width: calc(#{$wide-size} - (#{$spacing-full} * 2));
   max-width: -webkit-calc(#{$wide-size} - (#{$spacing-full} * 2));
-  position: relative;
-  margin-right: auto;
-  margin-left: auto;
+  width: 100%;
   border-bottom: 1px solid $light;
   padding: $spacing-full - 15px $spacing-full;
+  background: transparent;
+  backdrop-filter: blur(10px);
   @extend %clearfix;
 }
 
@@ -191,7 +200,7 @@
 
 // Author
 .author {
-  margin-top: 6.3rem;
+  margin-top: 7.3rem;
   text-align: center;
 
   @include media-query($on-mobile) {
