@@ -1,12 +1,8 @@
-- title: Home
-  url: /
-  external: false
-
 - title: Blog
   url: /archive/
   external: false
 
-- title: About
+- title: Hakkımda
   url: /about/
   external: false # set true if you using external link, see below
 
