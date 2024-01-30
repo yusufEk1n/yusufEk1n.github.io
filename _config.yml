@@ -1,7 +1,7 @@
 # Site settings
 title: Home # site title
 description: >- # site description
-  Merhaba benim adım yusuf. Öğrenmeyi, paylaşmayı ve güncel kalmayı seven bir yazılım mühendisliği öğrencisiyim. <a href="https://github.com/yusufEk1n" target="_blank" rel="noopener">@github</a>.
+  Merhaba benim adım yusuf. Öğrenmeyi, paylaşmayı ve güncel kalmayı seven bir yazılım mühendisliği öğrencisiyim.
 lang: en-US # default lang
 timezone: Europe/Istanbul # default timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
